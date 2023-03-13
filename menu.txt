@@ -1,0 +1,13 @@
+* Lutfen Bir Pizza Tabani Seciniz:
+1: Klasik = 50₺
+2: Margarita = 40₺
+3: TurkPizza = 70₺
+4: Sade = 50₺
+* ve Sececeginiz Ekstra Malzemeler:
+11: Zeytin = 3₺
+12: Mantarlar = 5₺
+13: Keci Peyniri = 7₺
+14: Et = 8₺
+15: Sogan = 5₺
+16: Misir = 5₺
+* Tesekkur ederiz!
